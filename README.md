@@ -7,6 +7,9 @@ Decreasing the training window increased the volatilty of the return with about 
 Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 The longer the SMAs the lower volatilty of the returns but also decreased the return compared to the original model. The 20 and 50 SMAs showed about the same plot for the strategy returns.
 
+Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
+The new model perform similarly to the baseline model. 
+
 
 Machine Learning Trading Bot
 In this Challenge, you’ll assume the role of a financial advisor at one of the top five financial advisory firms in the world. Your firm constantly competes with the other major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, your firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
